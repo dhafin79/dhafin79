@@ -46,6 +46,7 @@ I'm interested in developing practical systems that combine **web technologies, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=Power-BI\&logoColor=black)
 
 #### **Tools**
@@ -74,12 +75,23 @@ The project focuses on implementing a structured web-based sales system and demo
 
 #### 💼 [Web Porto](https://github.com/dhafin79/web-porto)
 
-A personal portfolio website built with **React and Vite**, showcasing frontend development and responsive web interface implementation.
+A personal portfolio website built with **React and Vite**, featuring an **integrated AI Assistant** alongside a responsive web interface.
 
 **Tech Stack:**
 `React` `Vite` `JavaScript` `Tailwind CSS`
 
 🌐 **Live Demo:** https://web-porto-nu-five.vercel.app/
+
+---
+
+#### ☕ [Dashboard NOJ Coffee](https://github.com/dhafin79/Dashboard-NOJCoffee)
+
+An interactive **Streamlit dashboard** presenting the results of product segmentation analysis for NOJ Coffee, built on **RFM Analysis and K-Means Clustering**.
+
+**Tech Stack:**
+`Python` `Streamlit` `Pandas` `Matplotlib` `Seaborn`
+
+This project turns my ongoing academic research into a working, explorable tool for visualizing customer/product segments.
 
 ---
 
@@ -94,7 +106,7 @@ A Laravel-based web application project developed as part of my academic and web
 
 #### 📊 [RevoU Project](https://github.com/dhafin79/RevouProject)
 
-A frontend web project developed during my learning experience with **RevoU**, focusing on building a structured web interface using HTML, CSS, and JavaScript.
+A **Celsius-to-Fahrenheit temperature converter** built during my learning experience with **RevoU**, focusing on core JavaScript logic and interactive UI.
 
 **Tech Stack:**
 `HTML` `CSS` `JavaScript`
@@ -110,6 +122,8 @@ My current academic research focuses on:
 > **Product Segmentation Analysis at NOJ Coffee using RFM Analysis and K-Means Clustering**
 
 The research involves processing transaction data, preparing datasets, calculating **Recency, Frequency, and Monetary (RFM)** values, applying **K-Means Clustering**, and visualizing the resulting product segments.
+
+The results of this research are presented through the **[Dashboard NOJ Coffee](https://github.com/dhafin79/Dashboard-NOJCoffee)** project, an interactive Streamlit app for exploring the segmentation output.
 
 **Areas I'm exploring:**
 
